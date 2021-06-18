@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Captain%20Jack&animation=twinkling&color=gradient&height=170)
--------
-
 ## "When you want to succeed as bad as you wanna breathe than you will be successful."
-
 
 <!---
 Captainjack-kor/Captainjack-kor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
