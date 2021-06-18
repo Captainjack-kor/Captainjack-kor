@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Captainjack-kor&animation=twinkling&color=gradient&height=170)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Captainjack&animation=twinkling&color=gradient&height=170)
 -------
 
 ## "When you want to succeed as bad as you wanna breathe than you will be successful."
