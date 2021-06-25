@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a> &nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp; 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp; 
 <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white"/></a> &nbsp; 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a> &nbsp; 
 
