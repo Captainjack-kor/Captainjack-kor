@@ -18,6 +18,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp;
 </div>
 
+<div align="center">
+ <h1> 🌈 Back-End Stack 🌈 </h1>
+</div>
+
+<div align="center">
+ <img src="https://img.shields.io/badge/express-1572B6?style=flat-square&logo=EXPRESS&logoColor=red"/></a> &nbsp;
+</div>
+
 
 <div align="center">
  <h1> 🚀 Tools 🚀 </h1>
@@ -66,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ## literally just friends 🚫🧢 &nbsp;
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/express-1572B6?style=flat-square&logo=EXPRESS&logoColor=red"/></a> &nbsp;
+
  -->
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp; 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp; -->
