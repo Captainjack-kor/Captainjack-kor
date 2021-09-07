@@ -1,5 +1,6 @@
 ## When you want to succeed as bad as you wanna breathe than you will be successful.
 
+<br />
 <!---
 Captainjack-kor/Captainjack-kor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp;
 </div>
 
+<br /> <br />
+
 <div align="center">
  <h1> 🌈 Back-End Stack 🌈 </h1>
 </div>
@@ -25,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  <img src="https://img.shields.io/badge/express-1572B6?style=flat-square&logo=EXPRESS&logoColor=red"/></a> &nbsp;
 </div>
+
+<br /> <br />
 
 
 <div align="center">
@@ -37,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+<br /> <br />
+
 <div align="center">
 <h2> 🔥 Learning 🔥 </h2>
 
@@ -44,6 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+<br />
 
 ------
 
