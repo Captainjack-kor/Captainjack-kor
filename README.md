@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes....
 <div align="center">
 <h2> 🔥 Learning 🔥 </h2>
 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/></a> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp;
 
 </div>
