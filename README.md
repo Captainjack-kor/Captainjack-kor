@@ -6,7 +6,7 @@ Captainjack-kor/Captainjack-kor is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes....
 --->
 <div align="center">
- <h1> ✨ Front-End Stack ✨</h1>
+ <h3> ✨ Front-End Stack ✨</h3>
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes....
 <br /> <br />
 
 <div align="center">
- <h1> 🌈 Back-End Stack 🌈 </h1>
+ <h3> 🌈 Back-End Stack 🌈 </h3>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes....
 
 
 <div align="center">
- <h1> 🚀 Tools 🚀 </h1>
+ <h3> 🚀 Tools 🚀 </h3>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white"/></a> &nbsp; 
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes....
 <br /> <br />
 
 <div align="center">
-<h2> 🔥 Learning 🔥 </h2>
+<h3> 🔥 Learning 🔥 </h3>
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/></a> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp;
@@ -60,7 +60,11 @@ You can click the Preview link to take a look at your changes....
 ------
 
 <div align="center">
- Welcome! <br /><br />
+ 
+ ```js
+  console.log(🚫🧢 );
+ ```
+<!--  Welcome! <br /><br />
  I'm Jack from South Korea <br /><br />
  I think I'm not gifted at all but I'm trying to what I have to do. : ) <br /><br />
  I literally normal I just wanna be a developer who person get along with anyone. <br /><br />
@@ -72,7 +76,7 @@ You can click the Preview link to take a look at your changes....
  I just DOOO 👊🏼 <br /><br />
  
  I hope to make really big things and to win the CTF at the same time If I could 😎 <br /><br />
- 
+  -->
 </div>
 
 <div align="center">
