@@ -68,9 +68,10 @@ You can click the Preview link to take a look at your changes....
  <a href="http://localhost:8080/3"> Button3 </a> &nbsp;
   <br />
    <br /> 
- ```js
-  console.log("123");
- ```
+ 
+```js
+ console.log("123");
+```
 </div>
 
 <div align="center">
