@@ -1,6 +1,3 @@
-## When you want to succeed as bad as you wanna breathe than you will be successful.
-
-<br />
 <!---
 Captainjack-kor/Captainjack-kor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes....
@@ -82,7 +79,7 @@ You can click the Preview link to take a look at your changes....
 
 --------
 
-<!-- ## literally just friends 🚫🧢 &nbsp;
+<!-- 🚫🧢 &nbsp;
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 
