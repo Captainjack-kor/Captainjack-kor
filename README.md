@@ -68,7 +68,6 @@ You can click the Preview link to take a look at your changes....
 <div align="center">
  
 <!--  <a href="https://www.google.com/"> button </a> -->
- let a = 
  <br />
  <a href="https://github.com/Captainjack-kor"> Button1 </a> &nbsp; 
  <a href="https://github.com/Captainjack-kor"> Button2 </a> &nbsp; 
@@ -76,6 +75,7 @@ You can click the Preview link to take a look at your changes....
  <span> 0  </span>&nbsp;  &nbsp;    &nbsp;  &nbsp; <span> 0 </span> &nbsp;  &nbsp;   &nbsp;  &nbsp;<span> 0  </span>
   <br />
    <br /> 
+ 
 ```js
  console.log("123");
 ```
