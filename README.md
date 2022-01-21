@@ -77,7 +77,8 @@ You can click the Preview link to take a look at your changes....
    <br /> 
  
 ```js
- console.log("123");
+   cosnole.log("TEST1");
+   console.log("change this value");
 ```
 </div>
 
