@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes....
  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 </div> -->
 
-<!-- <div align="center">
+<div align="center">
  
 [![CaptainJack StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15746954&theme=dark)](https://stackoverflow.com/users/15746954/CaptainJack)
  
- </div> -->
+ </div>
 
 <br /> 
 
