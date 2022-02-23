@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes....
 
 <div align="center">
  
-[![CaptainJack StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15746954&theme=dark)](https://stackoverflow.com/users/15746954/CaptainJack)
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=captainjack_kr)](https://solved.ac/captainjack_kr)
  
  </div>
 
@@ -74,6 +75,19 @@ You can click the Preview link to take a look at your changes....
 
 <div align="center">
  
+<details>
+<summary>StackOverflow</summary>
+
+[![CaptainJack StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15746954&theme=dark)](https://stackoverflow.com/users/15746954/CaptainJack)
+ 
+
+</details>
+ 
+ 
+ 
+<details>
+      
+<summary>Action test...</summary>
 <!--  <a href="https://www.google.com/"> button </a> -->
  <br />
  <a href="https://github.com/Captainjack-kor"> Button1 </a> &nbsp; 
@@ -88,6 +102,8 @@ You can click the Preview link to take a look at your changes....
    console.log("change this value");
 ```
 </div>
+ 
+ </details>
 
 <div align="center">
  
