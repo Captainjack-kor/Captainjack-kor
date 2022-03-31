@@ -9,13 +9,30 @@ You can click the Preview link to take a look at your changes....
 </div> -->
 
 <div align="center">
+
+<!-- | boj tier | history | 
+|:-------------------:|:-------------:|
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=cold"/> | -->
+ 
+ | boj tier | history | 
+|:-------------------:|:-------------:|
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=warm"/> |
+ 
+<!--  | boj tier | history | 
+|:-------------------:|:-------------:|
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=dark"/> | -->
+
+</div>
+
+<!-- <div align="center">
  
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=captainjack_kr)](https://solved.ac/captainjack_kr)
  
  [![CodeForces Profile](https://cf.leed.at?id=KR_CaptainJack)](https://codeforces.com/profile/KR_CaptainJack)
- 
- </div>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+ </div> -->
 
 <br /> 
 
@@ -76,6 +93,14 @@ You can click the Preview link to take a look at your changes....
 ------
 
 <div align="center">
+ 
+<details>
+<summary>CodeForces</summary>
+
+[![CodeForces Profile](https://cf.leed.at?id=KR_CaptainJack)](https://codeforces.com/profile/KR_CaptainJack)
+ 
+
+</details>
  
 <details>
 <summary>StackOverflow</summary>
