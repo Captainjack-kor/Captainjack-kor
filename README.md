@@ -36,34 +36,39 @@ You can click the Preview link to take a look at your changes....
 
 <br /> 
 
-<div align="center">
- <h3> ✨ Front-End Stack ✨</h3>
+<div align="left">
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Font-End Stack :  ```Vue```, ```React```, ```Node.js```, ```Swift```
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Back-End Stack :  ```Node.js```, ```express```
+ 
+<!--  <h3> ✨ Front-End Stack ✨</h3> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp;
-<!-- <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/> &nbsp; -->
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> &nbsp;
-<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp; -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp; 
-<!-- <img src="https://img.shields.io/badge/ReactHooks-B7178C?style=flat-square&logo=React&logoColor=pink"/> &nbsp; -->
-<!-- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp; -->
-</div>
+<img src="https://img.shields.io/badge/ReactHooks-B7178C?style=flat-square&logo=React&logoColor=pink"/> &nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp;
+</div>  -->
 
-<br /> <br />
+<!-- <br /> <br /> -->
 
-<div align="center">
+<!-- <div align="center">
  <h3> 🌈 Back-End Stack 🌈 </h3>
 </div>
 
 <div align="center">
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
  <img src="https://img.shields.io/badge/express-1572B6?style=flat-square&logo=EXPRESS&logoColor=red"/></a> &nbsp;
-</div>
+</div>  -->
 
-<br /> <br />
+<!-- <br /> <br /> -->
 
 
 <!-- <div align="center">
@@ -78,7 +83,7 @@ You can click the Preview link to take a look at your changes....
 
 <!-- <br /> <br /> -->
 
-<div align="center">
+<!-- <div align="center">
 <h3> 🔥 Learning 🔥 </h3>
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/></a> &nbsp;
@@ -86,9 +91,9 @@ You can click the Preview link to take a look at your changes....
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a> &nbsp;
-</div>
+</div> -->
 
-<br />
+<!-- <br /> -->
 
 ------
 
@@ -146,6 +151,8 @@ You can click the Preview link to take a look at your changes....
 </div>
  
  </details>
+ 
+<!--  <br /> -->
 
 <div align="center">
  
@@ -153,15 +160,9 @@ You can click the Preview link to take a look at your changes....
 
 </div>
 
---------
 
 <!-- 🚫🧢 &nbsp;
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 
- -->
-
-
-
-                                                                                                 
-                                                                                            
+ -->                                                                                  
