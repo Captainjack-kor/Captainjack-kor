@@ -97,14 +97,26 @@ You can click the Preview link to take a look at your changes....
 <details>
 <summary>CodeForces</summary>
 
+<br/>
+ 
 [![CodeForces Profile](https://cf.leed.at?id=KR_CaptainJack)](https://codeforces.com/profile/KR_CaptainJack)
  
+[![CodeForces Profile](http://cf.leed.at?id=KR_CaptainJack)](https://codeforces.com/profile/KR_CaptainJack)
+ 
+ 응~ 노레이팅은 출력도 안됨~ 서럽네욤 ^^
+
+<!-- ## Dev ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cola314&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </details>
  
 <details>
 <summary>StackOverflow</summary>
 
+ 
+<br/>
+ 
 [![CaptainJack StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15746954&theme=dark)](https://stackoverflow.com/users/15746954/CaptainJack)
  
 
@@ -113,8 +125,11 @@ You can click the Preview link to take a look at your changes....
  
  
 <details>
-      
+  
 <summary>Action test...</summary>
+
+<br/>
+ 
 <!--  <a href="https://www.google.com/"> button </a> -->
  <br />
  <a href="https://github.com/Captainjack-kor"> Button1 </a> &nbsp; 
