@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes....
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=captainjack_kr)](https://solved.ac/captainjack_kr)
  
+ [![CodeForces Profile](https://cf.leed.at?id=KR_CaptainJack)](https://codeforces.com/profile/KR_CaptainJack)
+ 
  </div>
 
 <br /> 
