@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes....
  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 </div> -->
 
-<div align="left">
+<div align="center">
  
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> 
+<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr">  -->
  
 
 <!-- | boj tier | history | 
@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes....
 |:-------------------:|:-------------:|
 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=warm"/> | -->
  
-<!--  | boj tier | history | 
+ | boj tier | history | 
 |:-------------------:|:-------------:|
-| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=dark"/> | -->
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=dark"/> |
 
 </div>
 
@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes....
 
 <div align="left">
  
-Font-End Stack :  ```Vue```, ```React```, ```Node.js```, ```Swift```
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Font-End Stack :  ```Vue```, ```React```, ```Node.js```, ```Swift```
 
-Back-End Stack :  ```Node.js```, ```express```
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Back-End Stack :  ```Node.js```, ```express```
  
 <!--  <h3> ✨ Front-End Stack ✨</h3> -->
 </div>
