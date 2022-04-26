@@ -24,7 +24,14 @@ You can click the Preview link to take a look at your changes....
  | boj tier | history | 
 |:-------------------:|:-------------:|
 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=captainjack_kr"> | <img src="http://mazandi.herokuapp.com/api?handle=captainjack_kr&theme=dark"/> |
+ 
 
+</div>
+
+<div align="left">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://www.codewars.com/users/Captainjack-kor/badges/large"> 
+  
 </div>
 
 <!-- <div align="center">
