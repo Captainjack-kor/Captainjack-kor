@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes....
 
 <div align="left">
  
-Font-End Stack :  ```Vue```, ```React```, ```Node.js```, ```Swift```
+Font-End Stack :  ```Vue.js```, ```React.js```, ```Swift```
 
 Back-End Stack :  ```Node.js```, ```express```
  
