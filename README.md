@@ -36,10 +36,10 @@ You can click the Preview link to take a look at your changes....
 <br /> 
 
 <div align="left">
- 
+<!--
 Font-End Stack :  ```Vue.js```, ```React.js```, ```Swift```
-
 Back-End Stack :  ```Node.js```, ```express```
+-->
  
 <!--  <h3> ✨ Front-End Stack ✨</h3> -->
 </div>
