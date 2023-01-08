@@ -3,7 +3,7 @@ Captainjack-kor/Captainjack-kor is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes....
 --->
 
-<a href="https://github.com/Captainjack-kor/Captainjack-kor/"> : D </a>
+<a href="https://github.com/Captainjack-kor/"> : D </a>
 
 <!-- <div align="center">
  Strong &nbsp;
