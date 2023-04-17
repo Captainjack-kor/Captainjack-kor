@@ -9,11 +9,31 @@ You can click the Preview link to take a look at your changes....
  Strong &nbsp;
  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 </div> -->
+<br />
+
+<div >
+ 
+<details>
+<summary>Project</summary>
+ 
+|title  | period |
+|-----|-----|
+| 한화(APP & WEB) | 23.01.01 ~ 23.01.30 |
+| 교보문고(APP & WEB) | 23.03.10 ~  |
+| |
+ </details>
+ 
+<details>
+<summary>CTF</summary>
+ 
+|title  | place |
+|-----|:---:|
+| NO ESCAPE CTF(2022) | 84 |
+| SECCON CTF 2022 Quals | 431 |
+| 3rd stage MetaRed CTF Mexico(2022) | 75 |
+ </details>
 
 <div align="center">
-
- 
- 
 
 <br /> 
 
