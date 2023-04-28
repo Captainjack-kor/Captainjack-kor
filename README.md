@@ -14,14 +14,24 @@ You can click the Preview link to take a look at your changes....
 <div >
  
 <details>
+ <summary>Bugbounty</summary>
+ 
+ | company  | reports |
+ |-----|-----|
+ | 카카오 금융 | StoredXSS(Self) |
+ | 마인리스트 | 불충분한 인증 및 인가 |
+ 
+</details>
+ 
+<details>
 <summary>Project</summary>
  
 |title  | period |
 |-----|-----|
 | 한화(APP & WEB) | 23.01.01 ~ 23.01.30 |
-| 교보문고(APP & WEB) | 23.03.10 ~  |
-| |
- </details>
+| 교보문고(APP & WEB) | 23.03.10 ~ 23.04.28 |
+
+</details>
  
 <details>
 <summary>CTF</summary>
