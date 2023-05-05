@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes....
 
 <div >
  
-<details>
+<details open>
+ <br>
  <summary>Bugbounty</summary>
  
  | company  | reports |
@@ -23,7 +24,8 @@ You can click the Preview link to take a look at your changes....
  
 </details>
  
-<details>
+<details open>
+ <br>
 <summary>Project</summary>
  
 |title  | period |
@@ -34,7 +36,8 @@ You can click the Preview link to take a look at your changes....
 
 </details>
  
-<details>
+<details open>
+ <br>
 <summary>CTF</summary>
  
 |title  | place |
