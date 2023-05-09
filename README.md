@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes....
 
 <div >
  
+ <!--
+ 
 <details open>
  <br>
  <summary>Bugbounty</summary>
@@ -46,6 +48,7 @@ You can click the Preview link to take a look at your changes....
 | SECCON CTF 2022 Quals | 431 |
 | 3rd stage MetaRed CTF Mexico(2022) | 75 |
  </details>
+-->
 
 <div align="center">
 
