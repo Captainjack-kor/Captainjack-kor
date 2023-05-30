@@ -13,30 +13,14 @@ You can click the Preview link to take a look at your changes....
 
 <div >
  
- <!--
- 
-<details open>
- <br>
+<!--
  <summary>Bugbounty</summary>
  
  | company  | reports |
  |-----|-----|
  | 카카오 금융 | StoredXSS(Self) |
  | 마인리스트 | 불충분한 인증 및 인가 |
- 
-</details>
- 
-<details open>
- <br>
-<summary>Project</summary>
- 
-|title  | period |
-|-----|-----|
-| 한화(APP & WEB 모의해킹) | 23.01.01 ~ 23.01.30 |
-| 교보문고(APP & WEB 모의해킹) | 23.03.10 ~ 23.04.28 |
-| 한화 에너지(WEB 모의침투) | 23.05.02 ~ 23.05.05 |
 
-</details>
  
 <details open>
  <br>
@@ -49,6 +33,20 @@ You can click the Preview link to take a look at your changes....
 | 3rd stage MetaRed CTF Mexico(2022) | 75 |
  </details>
 -->
+ 
+<details open>
+ <br>
+<summary>Project</summary>
+ 
+|title  | period |
+|-----|-----|
+| 한화(APP & WEB 모의해킹) | 23.01.01 ~ 23.01.30 (1개월) |
+| 교보문고(APP & WEB 모의해킹) | 23.03.10 ~ 23.04.28 (2개월) |
+| 한화 에너지(모의침투) | 23.05.02 ~ 23.05.05 (1주일) |
+| 삼성전자 (모의해킹) | 23.06.01 ~ 23.12. ..... (6개월) |
+
+</details>
+
 
 <div align="center">
 
