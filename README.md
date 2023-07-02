@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes....
 | 3rd stage MetaRed CTF Mexico(2022) | 75 |
  </details>
 -->
- 
+
 <details open>
  <br>
 <summary>Project</summary>
@@ -46,7 +46,6 @@ You can click the Preview link to take a look at your changes....
 | 삼성전자 (모의해킹) | 23.06.01 ~ 23.12. ..... (6개월) |
 
 </details>
-
 
 <div align="center">
 
