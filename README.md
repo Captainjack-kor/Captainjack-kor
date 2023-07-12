@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes....
 | 3rd stage MetaRed CTF Mexico(2022) | 75 |
  </details>
 -->
-
+<!--
 <details open>
  <br>
 <summary>Project</summary>
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes....
 <div align="center">
 
 <br /> 
-
+--!>
 <div align="left">
 <!--
 Font-End Stack :  ```Vue.js```, ```React.js```, ```Swift```
