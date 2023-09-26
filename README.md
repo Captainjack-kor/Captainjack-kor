@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes....
  
  | company  | reports |
  |-----|-----|
- | 카카오 금융 | StoredXSS(Self) |
- | 마인리스트 | 불충분한 인증 및 인가 |
+ | 카카오 금융 | - |
+ | 마인리스트 | - |
 
  
 <details open>
