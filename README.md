@@ -123,7 +123,7 @@ Back-End Stack :  ```Node.js```, ```express```
  
 [![CodeForces Profile](http://cf.leed.at?id=KR_CaptainJack)](https://codeforces.com/profile/KR_CaptainJack)
  
- 응~ 노레이팅은 출력도 안됨~ 서럽네욤 ^^ -->
+-->
 
 <!-- ## Dev ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cola314&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
