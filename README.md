@@ -2,10 +2,12 @@
 Captainjack-kor/Captainjack-kor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes....
 --->
-<strong><a href="https://captainjack-kor.github.io/" target="_blank" style="color:red;">https://captainjack-kor.github.io/</a></strong>
+<!--
+<strong><a href="https://captainjack-kor.github.io/" target="_blank" style="color:red;">Portfolio/</a></strong>
+-->
 <br>
 
-<a href="https://github.com/Captainjack-kor/"> : D </a>
+<a href="https://github.com/Captainjack-kor/"> :) </a>
 
 <!-- <div align="center">
  Strong &nbsp;
