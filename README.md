@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes....
 -->
 <br>
 
-<a href="https://github.com/Captainjack-kor/"> :) </a>
+<a href="https://github.com/Captainjack-kor/"> : ) </a>
 
 <!-- <div align="center">
  Strong &nbsp;
