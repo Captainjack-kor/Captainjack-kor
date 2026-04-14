@@ -29,7 +29,7 @@ Extensive experience in discovering critical vulnerabilities within large-scale 
 
 <br>
 
-### 📫 Connect
+### 📫 Contact
 
 <p>
   <a href="mailto:jennystr233@gmail.com">
