@@ -1,7 +1,7 @@
 
 ### $\color{red}{\text{Vulnerability Researcher}}$
 
-I am a security professional with **over 4 years of hands-on experience in Penetration Testing (Web/App)**, currently expanding my focus into **Vulnerability Research (VR) and Exploit Development**. I specialize in identifying structural flaws, analyzing 1-day vulnerabilities, and diving deep into low-level system internals.
+I am a security professional with over 4 years of hands-on experience in Penetration Testing (Web/App), currently expanding my focus into Vulnerability Research (VR) and Exploit Development. My current research focuses on identifying structural flaws, analyzing 1-day vulnerabilities, and gaining a deeper understanding of low-level system internals.
 
 <br>
 
